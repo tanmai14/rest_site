@@ -38,8 +38,9 @@ body {
 .navbar-brand a:active {
   text-decoration: none;
 }
-/* .navbar-header button.navbar-toggler {
-} */
+.navbar-header button.navbar-toggler {
+clear:both;
+} 
 .nav-link {
   color: #61122f;
   font-size: 1.1em;
